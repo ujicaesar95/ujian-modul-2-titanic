@@ -1,0 +1,12 @@
+.utama{
+    max-width:1500px;
+    margin:0 auto;
+}
+.ddl-table{
+    width:300px;
+    padding-bottom: 20px;
+}
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
